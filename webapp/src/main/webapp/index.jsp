@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> new Register</h1>
-<h2>mohan welcome to devops</h2>
+<h2>mohan welcome to devops project</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
