@@ -2,6 +2,7 @@
   <div class="container">
     <h1> new Register</h1>
 <h2>mohan welcome to devops project</h2>
+<h3>Bangalore institute of technlogy</h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
